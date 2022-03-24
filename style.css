@@ -356,6 +356,13 @@ body{
     overflow-x:hidden;
     }
 }
+@media only screen and (max-width: 768px){
+    .topnav{
+    width:100%;    
+    overflow-x:hidden;
+    font-size:10px;	    
+    }
+}
 @media only screen and (max-width:800px) {
   /* For tablets: */
   .project .flip-card,.About {
