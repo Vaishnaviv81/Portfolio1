@@ -365,14 +365,14 @@ body{
     margin-left: 50px;
   }  
 }
-@media only screen and (max-width:500px) {
-  /* For mobile phones: */
+/*@media only screen and (max-width:500px) {
+  /* For mobile phones: 
   .project,.About{
     width: 100%;
   }
 }
 @media only screen and (max-width:500px) {
-  /* For mobile phones: */
+  /* For mobile phones: 
   .topnav{
     width: 100%;
   }
@@ -460,5 +460,5 @@ body{
   .contact .col-md-4 i{
     float: left;
     font-size: 25px;
-  }
+  }*/
 }
